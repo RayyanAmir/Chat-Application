@@ -42,7 +42,7 @@ This project is a Python-based multi-user client-server chat application. It ena
 2.  **Usage:**
 - Starting a Chat Session: Once connected, clients can start sending messages that will be broadcast to all connected users.
 - Creating Groups: Users can create groups to organize discussions.
-Admin Controls: The admin can issue commands to manage users, including banning those who violate chat rules.
+- Admin Controls: The admin can issue commands to manage users, including banning those who violate chat rules.
 3. **Future Enhancements**
 - User Authentication: Implement user login and registration.
 - Private Messaging: Allow users to send private messages.
