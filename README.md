@@ -1,4 +1,4 @@
-**Multi-User Client-Server Chat Application**
+## **Multi-User Client-Server Chat Application**
 
 This project is a Python-based multi-user client-server chat application. It enables multiple users to connect to a central server, create groups, and chat in real-time. The server listens for incoming client connections, and clients must input the server's IP address to join. An admin has the authority to manage users, including banning disruptive users.
 
